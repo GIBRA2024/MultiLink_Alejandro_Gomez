@@ -2,7 +2,7 @@ function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
 FN:Alejandro Gomez GEB
-TEL:3229751693
+TEL: +57 3229751693
 EMAIL: produccion@eurobelleza.com
 NOTE: Proyect manager
 END:VCARD`;
